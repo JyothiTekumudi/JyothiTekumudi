@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Jyothi
 - 👀 I’m interested in Website design
-- 🌱 I’m currently learning  C,Java
+- 🌱 I’m currently learning  C,Python
 -  👀  I'M looking for  Internships
 - 📫 How to reach me through a 
 mail:sivajyothitekumudi@gmail.com
